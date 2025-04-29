@@ -19,7 +19,7 @@ Disponibilidade para trabalho **presencial ou remoto**.
 
 Você pode visualizar o currículo online neste link (exemplo para GitHub Pages):
 
-👉 [https://seuusuario.github.io/curriculo-online-natalia(https://natipastre.github.io/curriculo-html-natalia/)
+👉 https://natipastre.github.io/curriculo-html-natalia/
 
 > Substitua “seuusuario” pelo seu nome de usuário no GitHub após publicar com GitHub Pages.
 
