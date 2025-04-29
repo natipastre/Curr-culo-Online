@@ -12,8 +12,8 @@ Disponibilidade para trabalho **presencial ou remoto**.
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
-- CSS3
-- JAVA
+- CSS
+
 
 ## 🌐 Acesse
 
