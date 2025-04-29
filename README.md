@@ -5,7 +5,7 @@ Este repositório contém meu currículo profissional desenvolvido em HTML e CSS
 ## 💼 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente em transição de carreira para a área de Tecnologia da Informação.
-Tenho experiência com análise de dados, automação de processos e criação de dashboards. Estou buscando oportunidades como **Estagiária** ou **Desenvolvedora Front-End Júnior**.
+Estou buscando oportunidades como **Estagiária** ou **Desenvolvedora Front-End Júnior**.
 
 Disponibilidade para trabalho **presencial ou remoto**.
 
@@ -13,7 +13,7 @@ Disponibilidade para trabalho **presencial ou remoto**.
 
 - HTML5
 - CSS3
-- Java
+- JAVA
 
 ## 🌐 Acesse
 
