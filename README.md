@@ -3,28 +3,23 @@
 Este repositório contém meu currículo profissional desenvolvido em HTML e CSS, com foco em apresentação clara e responsiva para visualização online.
 
 ## 💼 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente em transição de carreira para a área de Tecnologia da Informação. Estou buscando oportunidades como Estagiária ou Desenvolvedora Front-End Júnior.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente em transição de carreira para a área de Tecnologia da Informação.
-Estou buscando oportunidades como **Estagiária** ou **Desenvolvedora Front-End Júnior**.
-
-Disponibilidade para trabalho **presencial ou remoto**.
+Disponibilidade para trabalho presencial ou remoto.
 
 ## 🚀 Tecnologias Utilizadas
-
 - HTML5
 - CSS
 
-
-## 🌐 Acesse
-
+## 🌐 Acessar
 Você pode visualizar o currículo online neste link (exemplo para GitHub Pages):
 
-👉 https://natipastre.github.io/curriculo-html-natalia/
+👉 [Acessar Currículo Online](https://natipastre.github.io/Curr-culo-Online/)
 
-> Substitua “seuusuario” pelo seu nome de usuário no GitHub após publicar com GitHub Pages.
+Substitua “seuusuário” pelo seu nome de usuário no GitHub após publicação com GitHub Pages.
 
 ## 📁 Como usar
+Clonar este repositório:
+```bash
+git clone https://github.com/natipastre/curriculo-html-natalia
 
-1. Clone este repositório:
-   ```bash
-   git clone [natipastre.github.io/curriculo-html-natalia/
